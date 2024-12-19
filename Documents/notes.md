@@ -32,3 +32,4 @@ We evaluate the performance of an algorithm in terms of its input size.
 - Big O notation - Worst case Complexity
 - Omega notation - Best case Complexity
 - Theta notation - Average case Complexity
+  _view [explanation](https://github.com/1am-programmer/DSA/blob/main/Documents/Explanation.md) for more examples._
