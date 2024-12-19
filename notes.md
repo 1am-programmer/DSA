@@ -25,4 +25,10 @@ We evaluate the performance of an algorithm in terms of its input size.
 1. **Time complexity** : Amount of time taken by an algorithm to run as a function of input size.
 2. **Space complexity** : Ammount of memory used by an algorithm to run as a function of input size.
 
-**TYPES OF ALGORITHM**
+**How to represent complexity**
+
+1. Asymptotic notations:- Mathematical tools used to represent the time and space complexity of an algorithm. They include:
+
+- Big O notation - Worst case Complexity
+- Omega notation - Best case Complexity
+- Theta notation - Average case Complexity
